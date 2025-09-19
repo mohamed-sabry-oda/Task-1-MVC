@@ -1,0 +1,33 @@
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\appsettings.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.staticwebassets.runtime.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.staticwebassets.endpoints.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.exe
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.deps.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.runtimeconfig.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.dll
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\bin\Debug\net8.0\Test MVC 1.pdb
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.AssemblyInfoInputs.cache
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.AssemblyInfo.cs
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.RazorAssemblyInfo.cache
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.RazorAssemblyInfo.cs
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\scopedcss\bundle\Test MVC 1.styles.css
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\scopedcss\projectbundle\Test MVC 1.bundle.scp.css
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.dll
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\refint\Test MVC 1.dll
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.pdb
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\Test MVC 1.genruntimeconfig.cache
+C:\Users\mohamed\Desktop\Test MVC 1 solution\Test MVC 1\obj\Debug\net8.0\ref\Test MVC 1.dll
