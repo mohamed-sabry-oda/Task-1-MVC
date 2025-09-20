@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\Test MVC 1 solution\\",
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|c:\\users\\mohamed\\desktop\\test mvc 1 solution\\test mvc 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|c:\\users\\mohamed\\desktop\\assignments\\mvc\\test mvc 1 solution\\test mvc 1\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|solutionrelative:test mvc 1\\views\\home\\view1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|c:\\users\\mohamed\\desktop\\assignments\\mvc\\test mvc 1 solution\\test mvc 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|solutionrelative:test mvc 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|c:\\users\\mohamed\\desktop\\test mvc 1 solution\\test mvc 1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|c:\\users\\mohamed\\desktop\\assignments\\mvc\\test mvc 1 solution\\test mvc 1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C31C651-2CEC-4784-9288-557CDBB7CCE0}|Test MVC 1\\Test MVC 1.csproj|solutionrelative:test mvc 1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -23,27 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "View1.cshtml",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\Test MVC 1\\Views\\Home\\View1.cshtml",
+              "RelativeDocumentMoniker": "Test MVC 1\\Views\\Home\\View1.cshtml",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\Test MVC 1\\Views\\Home\\View1.cshtml",
+              "RelativeToolTip": "Test MVC 1\\Views\\Home\\View1.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T09:12:14.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Test MVC 1 solution\\Test MVC 1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\Test MVC 1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Test MVC 1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Test MVC 1 solution\\Test MVC 1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\Test MVC 1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Test MVC 1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T01:23:38.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Test MVC 1 solution\\Test MVC 1\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\Test MVC 1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Test MVC 1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Test MVC 1 solution\\Test MVC 1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\assignments\\MVC\\Test MVC 1 solution\\Test MVC 1\\Properties\\launchSettings.json",
               "RelativeToolTip": "Test MVC 1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-17T01:01:56.691Z"
+              "WhenOpened": "2025-09-17T01:01:56.691Z",
+              "EditorCaption": ""
             }
           ]
         }
